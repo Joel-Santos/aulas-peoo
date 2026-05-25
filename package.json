@@ -1,0 +1,21 @@
+{
+  "name": "aulas-peoo",
+  "version": "1.0.0",
+  "description": "Repositório destinado a guardar os códigos da disciplina PEOO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-Santos/aulas-peoo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Joel-Santos/aulas-peoo/issues"
+  },
+  "homepage": "https://github.com/Joel-Santos/aulas-peoo#readme"
+}
